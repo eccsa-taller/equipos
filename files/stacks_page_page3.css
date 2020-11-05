@@ -1,0 +1,204 @@
+#stacks_in_2_page3>.s3_row {
+	margin: 0 -10px;
+}
+
+#stacks_in_2_page3>.s3_row>.s3_column_left {
+	width: 50.00%;
+}
+
+#stacks_in_2_page3>.s3_row>.s3_column_right {
+	width: 50.000000%;
+}
+
+
+
+
+#stacks_in_2_page3>.s3_row>.s3_column {
+	padding: 0 10px;
+}
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 770px) {
+
+
+
+}
+
+
+
+@media only screen and (max-width: 400px) {
+
+
+	#stacks_in_2_page3>.s3_row  {
+		margin: -10px 0;
+	}
+	#stacks_in_2_page3>.s3_row>.s3_column {
+		padding: 10px 0;
+		width:100%;
+	}
+
+
+}
+
+
+
+
+
+
+#stacks_in_17_page3 {
+	border: solid rgba(77, 77, 77, 1.00);
+	border-width:  1px;
+	margin:  2px;
+	padding:  5px;
+}
+
+#stacks_in_11_page3 {
+	border: solid rgba(77, 77, 77, 1.00);
+	border-width:  1px;
+	margin:  2px;
+	padding:  10px;
+}
+#stacks_in_5_page3>.s3_row {
+	margin: 0 -10px;
+}
+
+#stacks_in_5_page3>.s3_row>.s3_column_left {
+	width: 50.00%;
+}
+
+#stacks_in_5_page3>.s3_row>.s3_column_right {
+	width: 50.000000%;
+}
+
+
+
+
+#stacks_in_5_page3>.s3_row>.s3_column {
+	padding: 0 10px;
+}
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 770px) {
+
+
+
+}
+
+
+
+@media only screen and (max-width: 400px) {
+
+
+	#stacks_in_5_page3>.s3_row  {
+		margin: -10px 0;
+	}
+	#stacks_in_5_page3>.s3_row>.s3_column {
+		padding: 10px 0;
+		width:100%;
+	}
+
+
+}
+
+
+
+
+
+
+#stacks_in_19_page3 {
+	border: solid rgba(77, 77, 77, 1.00);
+	border-width:  1px;
+	margin:  2px;
+	padding:  5px;
+}
+
+#stacks_in_13_page3 {
+	border: solid rgba(77, 77, 77, 1.00);
+	border-width:  1px;
+	margin:  2px;
+	padding:  10px;
+}
+#stacks_in_8_page3>.s3_row {
+	margin: 0 -10px;
+}
+
+#stacks_in_8_page3>.s3_row>.s3_column_left {
+	width: 50.00%;
+}
+
+#stacks_in_8_page3>.s3_row>.s3_column_right {
+	width: 50.000000%;
+}
+
+
+
+
+#stacks_in_8_page3>.s3_row>.s3_column {
+	padding: 0 10px;
+}
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 770px) {
+
+
+
+}
+
+
+
+@media only screen and (max-width: 400px) {
+
+
+	#stacks_in_8_page3>.s3_row  {
+		margin: -10px 0;
+	}
+	#stacks_in_8_page3>.s3_row>.s3_column {
+		padding: 10px 0;
+		width:100%;
+	}
+
+
+}
+
+
+
+
+
+
+#stacks_in_21_page3 {
+	border: solid rgba(77, 77, 77, 1.00);
+	border-width:  1px;
+	margin:  2px;
+	padding:  5px;
+}
+
+#stacks_in_15_page3 {
+	border: solid rgba(77, 77, 77, 1.00);
+	border-width:  1px;
+	margin:  2px;
+	padding:  10px;
+}
