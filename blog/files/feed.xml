@@ -7,9 +7,9 @@
     xmlns:content="http://purl.org/rss/1.0/modules/content/"
 	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 	<channel>
-<title>My RSS Feed</title><link>http://page0.html</link><description>Hot News&#x21;</description><dc:language>en</dc:language><language>en</language><dc:date>2020-11-04T12:28:13-04:00</dc:date><admin:generatorAgent rdf:resource="http://www.realmacsoftware.com/" />
+<title>My RSS Feed</title><link>http://page1.html</link><description>Hot News&#x21;</description><dc:language>en</dc:language><language>en</language><dc:date>2020-12-12T12:28:00-04:00</dc:date><admin:generatorAgent rdf:resource="http://www.realmacsoftware.com/" />
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
-<lastBuildDate>Mon, 16 Jul 2018 06:42:06 -0400</lastBuildDate><item><title>Novedades</title><dc:subject>Novedades</dc:subject><dc:date>2020-11-04T12:28:13-04:00</dc:date><link>http://blog/files/e3836e7b6c4a69d44a09f2e1b3213230-2.html#unique-entry-id-2</link><guid isPermaLink="true">http://blog/files/e3836e7b6c4a69d44a09f2e1b3213230-2.html#unique-entry-id-2</guid><content:encoded><![CDATA[La presente pagina WEB tiene por fin, el mantener informaci&oacute;n actualizada sobre los equipos de propiedad de la Empresa Constructora Cochabamba S.A. ECCSA.  <br />Pr&oacute;ximamente se complementar&aacute; esta informaci&oacute;n con detalles de equipo liviano e informes de inventarios en obra.]]></content:encoded></item></channel>
+<lastBuildDate>Mon, 16 Jul 2018 06:42:06 -0400</lastBuildDate><item><title>Novedades</title><dc:subject>Novedades</dc:subject><dc:date>2020-12-12T12:28:00-04:00</dc:date><link>http://blog/files/e3836e7b6c4a69d44a09f2e1b3213230-2.html#unique-entry-id-2</link><guid isPermaLink="true">http://blog/files/e3836e7b6c4a69d44a09f2e1b3213230-2.html#unique-entry-id-2</guid><content:encoded><![CDATA[La presente pagina WEB tiene por fin, el mantener informaci&oacute;n actualizada sobre los equipos de propiedad de la Empresa Constructora Cochabamba S.A. ECCSA.  <br />Pr&oacute;ximamente se complementar&aacute; esta informaci&oacute;n con detalles de equipo liviano e informes de inventarios en obra.]]></content:encoded></item></channel>
 </rss>

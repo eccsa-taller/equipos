@@ -56,7 +56,7 @@
 	};
  
 	// Object containing all website meta info
-	var websiteMeta = {"archive-november-2020.html":"Archives for November 2020","e3836e7b6c4a69d44a09f2e1b3213230-2.html":"La presente pagina WEB tiene por fin, el mantener información actualizada sobre los equipos de propiedad de la Empresa Constructora Cochabamba S.A. EC"};
+	var websiteMeta = {"e3836e7b6c4a69d44a09f2e1b3213230-2.html":"La presente pagina WEB tiene por fin, el mantener información actualizada sobre los equipos de propiedad de la Empresa Constructora Cochabamba S.A. EC","archive-december-2020.html":"Archives for December 2020"};
  
 	// pageId must match the key in websiteMeta object
 	var url = window.location.pathname;
